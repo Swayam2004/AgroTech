@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
 
-const openWeatherApiKey = 'c0e54e9d9a08a96546f84b04e121ee8c';
+const openWeatherApiKey = 'Your-OpenWeather-API-Key-here';
 
 const themeColor = Color(0xff4A6B3E);
 const themeColor1 = Color(0xffA2C392);
